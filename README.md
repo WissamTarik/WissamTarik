@@ -48,10 +48,10 @@
 
 <br clear="both">
 
-<p align="left">contacts:<br>  linkedin:www.linkedin.com/in/<br>wissam-tarik-784456244<br><br>  email: "www.wissamtarik2021@gmail.com"</p>
+<p align="left"><b>Contacts</b>:<br>  linkedin:www.linkedin.com/in/<br>wissam-tarik-784456244<br><br>  email: "www.wissamtarik2021@gmail.com"</p>
 
 ###
 
-<p align="left">languages:<br>    - JavaScript<br>    - HTML<br>    - CSS<br>  frameworks_libraries:<br>    - React.js<br>    - Tailwind CSS<br>    - Bootstrap<br>  tools_platforms:<br>    - Git<br>    - GitHub<br>    - VS Code<br>    - npm<br>    - Vite<br>currently_learning:<br>  - Advanced React concepts (Context API, Redux, React query,Performance Optimization,SEO)<br>  - TypeScript</p>
+<p align="left"><b>languages</b>:<br>    - JavaScript<br>    - HTML<br>    - CSS<br>  frameworks_libraries:<br>    - React.js<br>    - Tailwind CSS<br>    - Bootstrap<br>  <b>tools_platforms</b>:<br>    - Git<br>    - GitHub<br>    - VS Code<br>    - npm<br>    - Vite<br>currently_learning:<br>  - <b>Advanced React concepts</b> (Context API, Redux, React query,Performance Optimization,SEO)<br>  - TypeScript</p>
 
 ###
