@@ -2,7 +2,11 @@
 
 ###
 
-<h2 align="left">Frontend web developer</h2>
+<h2 align="left">Frontend web developer 🚀</h2>
+
+###
+
+<p align="left">I'm a passionate front-end developer who loves building responsive, user-friendly, and modern web applications. My main focus is on JavaScript Typescript, React ,and next js  with experience using Tailwind CSS, Material UI and Bootstrap to create beautiful UIs.</p>
 
 ###
 
@@ -28,31 +32,27 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
 </div>
 
-
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
-
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/WissamTarik/count.svg?"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=WissamTarik&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=WissamTarik&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-<div align="center">
-  <img height="200" src="https://t3.ftcdn.net/jpg/03/18/60/62/360_F_318606217_Hk8jo2MVoI33SQOkYrfOF929J7JgIP0P.jpg"  />
-</div>
+<br clear="both">
+
+<img align="right" height="200" src="https://t3.ftcdn.net/jpg/03/18/60/62/360_F_318606217_Hk8jo2MVoI33SQOkYrfOF929J7JgIP0P.jpg"  />
 
 ###
 
-<img src="https://raw.githubusercontent.com/WissamTarik/WissamTarik/output/snake.svg" alt="Snake animation" />
+<br clear="both">
+
+<p align="left">contacts:<br>  linkedin:www.linkedin.com/in/<br>wissam-tarik-784456244<br><br>  email: "www.wissamtarik2021@gmail.com"</p>
+
+###
+
+<p align="left">languages:<br>    - JavaScript<br>    - HTML<br>    - CSS<br>  frameworks_libraries:<br>    - React.js<br>    - Tailwind CSS<br>    - Bootstrap<br>  tools_platforms:<br>    - Git<br>    - GitHub<br>    - VS Code<br>    - npm<br>    - Vite<br>currently_learning:<br>  - Advanced React concepts (Context API, Redux, React query,Performance Optimization,SEO)<br>  - TypeScript</p>
 
 ###
